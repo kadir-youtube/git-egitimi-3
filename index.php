@@ -1,5 +1,7 @@
 <?php
 
-    echo "kadirkasim";
+    echo "kadirkasim burada bira değişiklik yapalım";
+
+
 
 ?>
