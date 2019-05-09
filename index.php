@@ -1,5 +1,5 @@
 <?php
 
-    echo "kadirkasim";
-
+    echo "Muhammed Yazıcı";
+    echo "bu clonelandı";
 ?>
