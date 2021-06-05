@@ -1,5 +1,3 @@
 <?php
-
-    echo "kadirkasim";
-
+   echo "numan mercan";
 ?>
